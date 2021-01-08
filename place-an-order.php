@@ -1,7 +1,7 @@
 
 <?php
 
-require('../vendor/autoload.php');
+require('./vendor/autoload');
 
 
 if ($_POST["submit"]) {
